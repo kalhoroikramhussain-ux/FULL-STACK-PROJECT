@@ -1,0 +1,22 @@
+{
+  "author": "Sky",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": "Full Stack User App - Frontend + Backend combined",
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "crud"
+  ],
+  "license": "ISC",
+  "main": "server.js",
+  "name": "fullstack-user-app",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "version": "1.0.0"
+}
